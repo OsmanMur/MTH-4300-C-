@@ -1,0 +1,10 @@
+bus
+autobus
+coach
+charabanc
+double-decker
+jitney
+motorbus
+motorcoach
+omnibus
+passenger vehicle

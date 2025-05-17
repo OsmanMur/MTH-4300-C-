@@ -1,0 +1,3 @@
+In this course, we will create programs in C++; some will be small and simple while others will be large and complex.  We will introduce basic language features, and talk about principles of software design.  I hope this course provides you with an excellent foundation for your future programming projects.   
+
+In this class we will not watch tv or movies.  It is likely that the instructor will make us watch YouTube for part of class, but that would just be a short break in between topics.

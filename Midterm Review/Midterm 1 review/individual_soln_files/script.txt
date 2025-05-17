@@ -1,0 +1,5 @@
+Alice: Hello, my name is Alice. Who are you?
+Bob: I’m Bob, and I’m the main character in this play.
+Alice: I disagree, I am the main character. I have the most lines.
+Bob: I think we have an equal number of lines.
+Charlie: What about me? I have a line too!

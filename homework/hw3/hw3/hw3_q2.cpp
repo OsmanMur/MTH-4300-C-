@@ -1,0 +1,22 @@
+////////////////////////////////////////////////////////////////////////////////
+// hw3_q2.cpp
+////////////////////////////////////////////////////////////////////////////////
+// Name: Osman
+////////////////////////////////////////////////////////////////////////////////
+
+/* 
+Write your answers in this comment.
+
+Assuming  &x[0] = 0x34f9dff8b0, then the others should be a difference of 4-bytes.
+so, 
+    &x[0] = 0x34f9dff8b0
+    &x[1] = 0x34f9dff8b4
+    &x[2] = 0x34f9dff8b8
+    &x[3] = 0x34f9dff8bc
+    x (same as the address of the first term) = 0x34f9dff8b0 
+
+
+
+
+
+*/

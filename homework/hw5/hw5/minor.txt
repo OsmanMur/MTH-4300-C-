@@ -1,0 +1,6 @@
+minor
+modest
+small
+small-scale
+pocket-size
+pocket-sized

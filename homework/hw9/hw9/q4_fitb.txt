@@ -1,0 +1,8 @@
+List the first seven positive integers in Spanish:
+uno
+dos
+tres
+cuatro
+cinco
+seis
+siete

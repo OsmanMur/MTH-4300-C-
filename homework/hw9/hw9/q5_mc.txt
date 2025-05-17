@@ -1,0 +1,7 @@
+Which one of these is not an animal?
+2
+Cow
+Fax Machine
+Bear
+Moose
+Dog

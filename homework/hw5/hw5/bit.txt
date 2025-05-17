@@ -1,0 +1,5 @@
+bit
+chip
+flake
+fleck
+scrap
